@@ -22,8 +22,8 @@ The company divides tasks into two roles. One family member takes on the role of
 
 Additionally, the company aims to achieve the following objectives with the implementation of this database:
 
-Improve inventory management efficiency and accuracy: difficulties in maintaining proper inventory tracking sometimes result in stock shortages or excess inventory.
-Optimize sales management: ease of tracking sales and revenue accurately.
-Simplify purchasing from suppliers: maintain proper tracking of purchases from suppliers to better manage inventory and analyze product expenses.
-Facilitate decision-making: provide relevant information on inventory, sales, revenue, and costs for more informed and effective decision-making.
-Enhance data security and protection: implement security measures to protect the information stored in the database.
+- Improve inventory management efficiency and accuracy: difficulties in maintaining proper inventory tracking sometimes result in stock shortages or excess inventory.
+- Optimize sales management: ease of tracking sales and revenue accurately.
+- Simplify purchasing from suppliers: maintain proper tracking of purchases from suppliers to better manage inventory and analyze product expenses.
+- Facilitate decision-making: provide relevant information on inventory, sales, revenue, and costs for more informed and effective decision-making.
+- Enhance data security and protection: implement security measures to protect the information stored in the database.
